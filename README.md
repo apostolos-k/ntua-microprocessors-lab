@@ -50,4 +50,4 @@ Exercises for the Microprocessors Lab course at Ece Ntua 2022-23, in which we pr
 
 ## Info
 
-All Labs reports are in Greek language.
+The `Reports` and `Exercises` of each Lab are in Greek language.
